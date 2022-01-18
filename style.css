@@ -30,7 +30,7 @@ margin-right: 15px;}
 #gallery{
 float: left;
 margin-top: 15px;
-min-height: 100%;
+min-height: 100vmin;
 min-width: 40%
 
 }
@@ -45,5 +45,5 @@ min-width: 40%
 }
 
 .image
-{width: 100%;
+{width: 100vmin;
 height: auto;}
